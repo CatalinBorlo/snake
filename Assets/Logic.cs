@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-
+//ii arat lui cata cum functioneaza github
 public class Logic : MonoBehaviour
 {
     public int playerScore;
