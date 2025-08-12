@@ -1,0 +1,18 @@
+# Fisiere specifice IDE-urilor
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Unity specific
+Library/
+obj/
+Temp/
+Logs/
+Build/
+Builds/
+*.csproj
+*.unityproj
+*.sln
